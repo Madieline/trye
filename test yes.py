@@ -10,6 +10,19 @@ import json
 from matplotlib import pyplot as plt
 from matplotlib.offsetbox import OffsetImage, AnnotationBbox
 
+credentials = {
+    "type": st.secrets["GSPREAD_SERVICE_ACCOUNT"]["type"],
+    "project_id": st.secrets["GSPREAD_SERVICE_ACCOUNT"]["project_id"],
+    "private_key_id": st.secrets["GSPREAD_SERVICE_ACCOUNT"]["private_key_id"],
+    "private_key": st.secrets["GSPREAD_SERVICE_ACCOUNT"]["private_key"],
+    "client_email": st.secrets["GSPREAD_SERVICE_ACCOUNT"]["client_email"],
+    "client_id": st.secrets["GSPREAD_SERVICE_ACCOUNT"]["client_id"],
+    "auth_uri": st.secrets["GSPREAD_SERVICE_ACCOUNT"]["auth_uri"],
+    "token_uri": st.secrets["GSPREAD_SERVICE_ACCOUNT"]["token_uri"],
+    "auth_provider_x509_cert_url": st.secrets["GSPREAD_SERVICE_ACCOUNT"]["auth_provider_x509_cert_url"],
+    "client_x509_cert_url": st.secrets["GSPREAD_SERVICE_ACCOUNT"]["client_x509_cert_url"]
+}
+
 # Function to load the latest item from Google Sheets
 def load_latest_item():
     # Connect to Google Sheets using service account credentials
