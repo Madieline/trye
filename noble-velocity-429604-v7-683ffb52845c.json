@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "noble-velocity-429604-v7",
+  "private_key_id": "683ffb52845c1aae905012412384a9d13f5b0dbd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCl2WCXhR/a9lBd\n3DUpAqU9NhOmYoyInd6REu+g4mfwT1Q7qD7NdDWuPppVx7aR118uygrVncdX1fw9\nB+1wRQCmlrZuVVXYGsCJL1VDBWefBDZWM0IB+PmY+YZEeUcOwmMDlqrHvPxSOu1m\n7pAsvJJZU+lxsdUQo8I77TpIg4iM4nRnODGXq0C56iQimDCr/C/7MKWdbCoM81DI\nnlqdR6t4B2oRvM+DjxDW98snKynNNAar36Or/LQUmvyhyHBWoBFtR014cYLVwesN\nUWEYm2UmPNmweFjB83l1x/G7RHJfat/5OrZtausD6JlZvtFDNv9xDCvIu9bEks0U\n0ZXwEgwVAgMBAAECggEAA3kodTPkBWVoLHcKo/e6tyv1QGRK9id8PESNwSxMqfM3\nW+J7ojjfUO1dtRMwJyDADQ5NKMkbniLMnAiY9+NyDosUef4OhK6Wvqi/m942m9Vu\nP+Ll7H2m2IXNQozZqJz4juAuZm12SVCTnTa8zTsLw5QmzOtA/462aCPhNxiOGQky\nafzI8mlEENm9u0Y+u8iEs3rY/6h4/I0bzhKwOmfp8zyqOCCe0PJ9gNPKI3kBYV5h\nvrJd3b7CWfDatcEVXp9PFkLMIz8Fy2z9jJ2J2SJdnn9lJUUu5I2LK3xwrPhF+o8e\n8j17Ouz7Htmceqno7uhdCok5lSvUXQ7y+SjXpImFRwKBgQDblEWh6eG9ooBKi4g8\nCvf902whu5F0zUVBlqhdtRO/QMKVV5nLQDG4GshVyxMAFSQBqauOvafiqyHsSN/2\nihQ8c0VzLSfNEYF2Ou8rgzJqrgDQY52obhHMjsNoi8Iva0NGAg8+GM6ztlee+mjC\noljc71SRAW+XMs/8lblwwakK+wKBgQDBW6FX9zyZi6brliJTkBbZ1odXHbugEv2L\nSn1YkILw8azTFk7cDiYlShK9lnLW7VvRs2CmBf8AGSMkkIel91HI7tZpiLd4UU08\n2IW/k7EFf/j0kMeiG6hHVhIHSmCapltcKOQhnZgCvFEIfyifB5XeEoBHbEq/6qxV\nL5PYc0yYLwKBgFl8ywgavkI/uNMonIQD4F+Uy4vP2o7knWYGlWVjR8H5DZQ5mFcK\nOXkTiTPVyE+PThZTZLSOvJ4XKoMWjBf43BhqzhILhB4CFWXuzMxJ8sEhWvmSr40W\nFrDsOd0goCodJ9SfQEEJcSwykvEakplH+rlH3IogMK9JKRSCnInEkzUDAoGAegYo\noUn+7WurkLtzuEaTlTAEw16ZPOEfLxt4VT8F06bBCYnnhIpNWnUPtKPQn4C11HYe\nhUf9cINsoTOw13VoIKVRnNJR7tVoKAEBDzDWo4DqjPUdd1l67mIMCJvQsWhQ+a04\no1pAR2GuxezxpsLzumz0lZ5q4gjobu4SoKPK77MCgYAUxJNCXuzanQXr04hgB023\ndH0o0xYemNTD5RXEsBCjs+D9op0BSndsDxMk3Ho7rf/0iJ43L1y8bjUW8Xqi0BIg\ncVcvS64QlvngU/WoFdhlLZIL/1tFdi2HJEd49f1gLijr7REaRNAq1m1Kcrk0W7qJ\n4q95xSmFcZzmC7InIZ6g7Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "itmgt-598@noble-velocity-429604-v7.iam.gserviceaccount.com",
+  "client_id": "117205723367410092898",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/itmgt-598%40noble-velocity-429604-v7.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
